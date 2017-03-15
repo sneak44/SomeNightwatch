@@ -25,3 +25,8 @@ To execute the unhappy case:
 ```sh
 nightwatch -c bin/nightwatch.json examples/tests/Springer/springer_unhappy.js
 ```
+If the Geckodriver is not executable, navigate to the bin and perform:
+```sh
+chmod +x geckodriver.mac
+```
+*geckodriver for OSX is used
