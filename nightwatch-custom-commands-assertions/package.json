@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nightwatch-custom-commands-assertions",
+        "scope": null,
+        "escapedName": "nightwatch-custom-commands-assertions",
+        "name": "nightwatch-custom-commands-assertions",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/bschott"
+    ]
+  ],
+  "_from": "nightwatch-custom-commands-assertions@latest",
+  "_id": "nightwatch-custom-commands-assertions@1.0.5",
+  "_inCache": true,
+  "_location": "/nightwatch-custom-commands-assertions",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "maxgalbu",
+    "email": "max.galbusera+npm@gmail.com"
+  },
+  "_npmVersion": "2.14.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nightwatch-custom-commands-assertions",
+    "scope": null,
+    "escapedName": "nightwatch-custom-commands-assertions",
+    "name": "nightwatch-custom-commands-assertions",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/nightwatch-custom-commands-assertions/-/nightwatch-custom-commands-assertions-1.0.5.tgz",
+  "_shasum": "ad101ca966aab06ee773a36338b251b0b1949406",
+  "_shrinkwrap": null,
+  "_spec": "nightwatch-custom-commands-assertions",
+  "_where": "/Users/bschott",
+  "author": {
+    "name": "max galbusera"
+  },
+  "bugs": {
+    "url": "https://github.com/maxgalbu/nightwatch-custom-commands-assertions/issues"
+  },
+  "dependencies": {
+    "easyimage": "^1.2.2"
+  },
+  "description": "These are some commands and assertion I use when I'm testing with nightwatch.js and selenium.",
+  "devDependencies": {
+    "chromedriver": "~2.19",
+    "coffeelint": "latest",
+    "grunt": "^0.4.5",
+    "gulp": "^3.8.11",
+    "gulp-coffee": "^2.3.1",
+    "gulp-include": "^2.0.2",
+    "gulp-markdox": "git://github.com/maxgalbu/gulp-markdox.git#markdox-master",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-util": "^3.0.4",
+    "mockserver-client": "^1.0.3",
+    "nightwatch": "latest",
+    "selenium-server": "2.45.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "ad101ca966aab06ee773a36338b251b0b1949406",
+    "tarball": "https://registry.npmjs.org/nightwatch-custom-commands-assertions/-/nightwatch-custom-commands-assertions-1.0.5.tgz"
+  },
+  "gitHead": "3d2a4ae8a409490cfc576ab960b675e4e8935c03",
+  "homepage": "https://github.com/maxgalbu/nightwatch-custom-commands-assertions",
+  "keywords": [
+    "nightwatch",
+    "commands",
+    "assertions"
+  ],
+  "license": "MIT",
+  "main": "none",
+  "maintainers": [
+    {
+      "name": "maxgalbu",
+      "email": "max.galbusera+npm@gmail.com"
+    }
+  ],
+  "name": "nightwatch-custom-commands-assertions",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxgalbu/nightwatch-custom-commands-assertions.git"
+  },
+  "scripts": {
+    "test": "./runTests.sh"
+  },
+  "version": "1.0.5"
+}
